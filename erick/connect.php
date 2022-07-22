@@ -10,3 +10,4 @@ if (!$connect){
 	die('Failed to connect to database:'.mysqli_connect_error());	
 }
 ?>
+erick macha pro
